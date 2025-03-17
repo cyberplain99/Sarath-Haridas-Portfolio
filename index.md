@@ -1,90 +1,72 @@
-<!doctype html>
-<html lang="en">
+Sarath Haridas - Cybersecurity Portfolio
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sarath Haridas</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
-  <link
-    href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
-    rel="stylesheet">
-  <style>
-    html {
-  scroll-behavior: smooth;
-}
+Professional Summary
 
-    body {
-      padding-top: 4rem;
-      /* Default padding for larger screens */
-      background-color: #3C6E71;
-    }
+Results-driven Security Architect with extensive experience in security architecture, vulnerability management, and cloud security. Proven expertise in risk assessment, security frameworks (ISO, NIST-CSF, CIS), and incident response. Adept at securing on-prem and cloud environments (AWS, GCP), managing large-scale security programs, and leading security audits and compliance initiatives.
 
-    /* Media query for small screens */
-    @media (max-width: 576px) {
-      body {
-        padding-top:  1rem;
-        /* Adjusted padding for mobile screens */
-      }
-    }
+Core Skills & Expertise
 
-    section {
-      padding: 100px 0;
-    }
+•	Security Architecture & Network Security
+•	Vulnerability Management & Risk Assessment
+•	Cloud Security (AWS, GCP)
+•	Incident Response & Digital Forensics
+•	Security Frameworks (ISO, NIST-CSF, CIS)
+•	Firewall & VPN Implementation (Palo Alto, Checkpoint, Fortinet, Cisco ASA)
+•	Security Operations & Compliance (ISO Audits, SOC2)
+•	Security Posture Management & Attack Surface Reduction
 
-    .bg-section {
-      background-color: #D9D9D9;
-    }
-    /* Navbar Styles */
-nav {
-  display: flex;
-  justify-content: space-around;
-  background-color: #111827; /* Nav background color */
-}
+Featured Projects & Case Studies
 
-nav a {
-  color: #D1D5DB; /* Light color for links */
-  text-decoration: none;
-  padding: 10px 20px;
-  transition: all 0.3s ease; /* Smooth transition for color and underline */
-}
+1. Enterprise Vulnerability Management Program
+•	Led vulnerability management for 30,000+ assets across on-prem and cloud environments.
+•	Developed a vulnerability management policy and standards based on ISO, NIST-CSF, and CIS controls.
+•	Implemented Rapid7 tools, reducing the attack surface and enhancing security posture.
+•	Established KPIs for vulnerability management to track and mitigate risks effectively.
+2. Secure Cloud Architecture for AWS Environments
+•	Designed and deployed secure AWS architectures using firewalls, WAF, and security automation.
+•	Led ISO audits for cloud infrastructure, ensuring compliance with regulatory frameworks.
+•	Improved AWS security posture by implementing GuardDuty, AWS Security Hub, and IAM best practices.
+3. SD-WAN Security & Firewall Optimization
+•	Designed and implemented Skybox Continuous Exposure Management Platform for automated firewall rule optimization.
+•	Led SD-WAN firewall deployments across 200+ global sites, improving network security.
+•	Provided expertise on Fortinet, Palo Alto, Checkpoint, Cisco ASA, and Radware WAF.
+4. Threat Intelligence & Incident Response
+•	Conducted threat intelligence assessments via OSINT to identify risks and emerging threats.
+•	Developed technical recovery procedures for security devices and led incident response exercises.
+•	Provided training to stakeholders on security best practices and threat mitigation strategies.
 
-nav a:hover,
-nav a.active {
-  color: #F9FAFB; /* Light white color for active or hovered links */
-  border-bottom: 2px solid #F9FAFB; /* Underline effect */
-  transition: all 0.3s ease; /* Animation on hover/active */
-}
+Certifications
 
-/* Active link */
-nav a.active {
-  color: #F9FAFB; /* Light white */
-  border-bottom: 2px solid #F9FAFB; /* Underline effect */
-}
+•	Certified Information Systems Security Professional (CISSP)
+•	AWS Certified Solutions Architect – Associate
+•	Palo Alto Certified Network Security Engineer (PCNSE)
+•	CompTIA Security+ Certification
+•	Google Cloud Digital Leader (Google CDL)
+•	Zscaler Zero Trust Certified Architect (ZTCA)
 
+Technical Skills
 
-    .nav-link {
-      color: #ffffffe1;
-      font-family: "Montserrat";
-    }
+•	Firewalls & VPNs: Fortinet, Palo Alto, Checkpoint, Cisco ASA
+•	Cloud Security: AWS, GCP, Azure
+•	Security Tools: Rapid7, Proxies, Skybox, Acalvio Deception, Radware DDoS
+•	SIEM & Threat Intelligence: Splunk, Rapid7 IDR, & OSINT
+•	Compliance & Frameworks: ISO 27001, NIST-CSF & RMF, CIS Controls
 
-    .container h2 {
-      font-family: "Merriweather", serif;
-      font-size: 3rem;
-      color: #284B63;
-    }
+Blog & Thought Leadership
 
-    p {
-      font-family: "Montserrat";
-    }
+I share insights on cybersecurity trends, best practices, and research. 
+Here are some of my latest blog posts:
 
-    li {
-      font-family: "Montserrat";
-    }
-  </style>
+•	Understanding CVSS, SSVC, and EPSS in Vulnerability Management
 
-</head>
+•	OT Monitoring
+
+Contact Information
+
+📍 Kanata, ON
+📧 sarath.haridas@gmail.com
+📞 613-324-1352
+
+🔗 LinkedIn Profile
+
+🔗 GitHub Portfolio
